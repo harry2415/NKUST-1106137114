@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\fish8\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\fish8\\.nuget\\packages"
+    ]
+  }
+}
